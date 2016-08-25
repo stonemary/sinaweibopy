@@ -12,7 +12,7 @@ kw = dict(
     author_email = 'askxuefeng@gmail.com',
     url = 'https://github.com/michaelliao/sinaweibopy',
     download_url = 'https://github.com/michaelliao/sinaweibopy',
-    py_modules = ['weibo'],
+    py_modules = ['weibo', 'snspy'],
     classifiers = [
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
